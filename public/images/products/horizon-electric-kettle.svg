@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500" role="img">
+<defs>
+<linearGradient id="g-horizon-electric-kettle" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#E7E9EC"/>
+<stop offset="100%" stop-color="#CBD1D8"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="1500" fill="url(#g-horizon-electric-kettle)"/>
+<rect x="24" y="24" width="1152" height="1452" fill="none" stroke="#20242B" stroke-opacity="0.08" stroke-width="2"/>
+<g transform="translate(600.0,710.0)" fill="none" stroke="#20242B" stroke-width="14.88" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M -223.2 -37.2 L -223.2 260.4 Q -223.2 372.0 -74.4 372.0 L 208.32000000000002 372.0 Q 312.47999999999996 372.0 312.47999999999996 252.96 L 312.47999999999996 -14.88 Z" fill="#3E5C76" fill-opacity="0.16"/>
+  <path d="M -312.47999999999996 -133.92 Q -74.4 -252.96 37.2 -104.16000000000001" />
+  <ellipse cx="0" cy="-37.2" rx="267.84" ry="52.080000000000005" />
+  <path d="M 252.96 -14.88 Q 461.28 -44.64 372.0 104.16000000000001 Q 312.47999999999996 178.56 223.2 133.92" />
+  <circle cx="-14.88" cy="-312.47999999999996" r="37.2" fill="#20242B"/>
+  <path d="M -74.4 -267.84 Q -14.88 -372.0 59.52 -267.84" />
+</g>
+</svg>

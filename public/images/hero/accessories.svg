@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1400" width="2000" height="1400" role="img">
+<defs>
+<linearGradient id="g-hero-accessories" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#E7E9EC"/>
+<stop offset="100%" stop-color="#CBD1D8"/>
+</linearGradient>
+</defs>
+<rect width="2000" height="1400" fill="url(#g-hero-accessories)"/>
+
+<g transform="translate(1440.0,700.0)" fill="none" stroke="#20242B" stroke-width="15.400000000000002" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="0" cy="0" r="277.20000000000005" fill="#3E5C76" fill-opacity="0.16"/>
+  <path d="M -123.20000000000002 -15.400000000000002 L -15.400000000000002 107.80000000000003 L 169.40000000000003 -138.60000000000002" />
+</g>
+</svg>

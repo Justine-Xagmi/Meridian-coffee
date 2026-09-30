@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500" role="img">
+<defs>
+<linearGradient id="g-precision-brew-scale" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#E9E7E4"/>
+<stop offset="100%" stop-color="#CFCBC4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="1500" fill="url(#g-precision-brew-scale)"/>
+<rect x="24" y="24" width="1152" height="1452" fill="none" stroke="#1E1B18" stroke-opacity="0.08" stroke-width="2"/>
+<g transform="translate(600.0,710.0)" fill="none" stroke="#1E1B18" stroke-width="14.88" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="-312.47999999999996" y="-74.4" width="624.9599999999999" height="312.47999999999996" rx="37.2" fill="#6B4A32" fill-opacity="0.16"/>
+  <rect x="-178.56" y="-193.44" width="357.12" height="133.92" rx="22.32" fill="#6B4A32" fill-opacity="0.3"/>
+  <line x1="-223.2" y1="81.84" x2="223.2" y2="81.84" opacity="0.5"/>
+  <circle cx="0" cy="22.32" r="22.32" fill="#1E1B18"/>
+</g>
+</svg>
